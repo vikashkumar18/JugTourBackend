@@ -1,2 +1,1 @@
-# JugTour Backend
-Springboot Service
+Jug Tour Backend
