@@ -1,2 +1,2 @@
-# JugTourBackend
+# JugTour Backend
 Springboot Service
